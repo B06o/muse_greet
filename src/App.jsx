@@ -4,7 +4,7 @@ import P5Shader from './components/P5Shader'
 import GreetText from './components/GreetText'
 
 function App() {
-  const [greetText] = useState("💚🧡   B06oo7   💜💛")
+  const [greetText] = useState(" B06oo7 💚🧡💜💛 U !! ")
 
   return (
     <div className="app">
